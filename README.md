@@ -4,6 +4,8 @@ _Collaborate with others to refine your work and get suggestions before merging.
 
 ## Welcome
 
+I am learning GitHub.
+
 All great projects start with collaboration, and pull requests are the foundation of teamwork on GitHub. They give you the ability to asynchronously work together and refine work by commenting, requesting changes, and approving.
 
 - **Who is this for**: Technical Developers, Non-Technical collaborators, students, managers.
